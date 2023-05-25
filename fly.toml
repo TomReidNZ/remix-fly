@@ -1,4 +1,4 @@
-app = "my-remix-app-6022"
+app = "fly-builder-polished-butterfly-993"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
