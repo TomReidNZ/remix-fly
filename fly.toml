@@ -1,4 +1,4 @@
-app = "fly-builder-polished-butterfly-993"
+app = "my-remix-app-6022"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
@@ -11,7 +11,7 @@ entrypoint = "sh"
 
 [mounts]
 source = "data"
-destination = "/machine_data"
+destination = "/data"
 
 [[services]]
 internal_port = 8_080
